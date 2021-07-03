@@ -1,0 +1,21 @@
+body {
+	background-color: powderblue;
+}
+
+.al{
+	text-align: center;
+}
+.re{
+	border: 1px solid white;
+	border-radius: 5px;
+	height: 150px;
+	width: 25%;
+	margin-top: 25px;
+	margin-left: 25px;
+	background-color: white;
+	float: left;
+
+}
+h2{
+	font-family: Reenie Beanie;
+}
